@@ -1,4 +1,4 @@
-package model
+package customers
 
 //Everything that has to do with address should be here
 
