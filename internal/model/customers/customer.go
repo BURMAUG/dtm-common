@@ -1,4 +1,4 @@
-package model
+package customers
 
 type Customer struct {
 	first_name string
